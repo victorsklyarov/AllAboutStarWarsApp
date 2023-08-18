@@ -10,11 +10,16 @@ All About Star Wars App is an application for searching people, starships and pl
 ## Setup
 1. [Download Android Studio](https://developer.android.com/studio) for your operating system
 2. Select File > New > Project from Version Control...
+   
    *Version Control* > `Git`
+   
    *URL* > `git@github.com:victorsklyarov/AllAboutStarWarsApp.git`
+   
    *Directory* > *select your folder for this project*
+   
    Click `Clone`
-3. Select Run > Run 'app' or push Shift+F10
+   
+4. Select Run > Run 'app' or push Shift+F10
 
 ## Libraries
 The application uses the following libraries:
